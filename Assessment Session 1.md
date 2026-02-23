@@ -68,7 +68,3 @@ They monitor network speed.
 
 #10
 Ethereum transitioned from Proof of Work to Proof of Stake in order to enhance efficiency and reduce energy consumption.
-
-Correct
-Answer for BLANK-1 is 
-Proof of Stake
